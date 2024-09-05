@@ -1,6 +1,9 @@
 also check this:
 https://paperswithcode.com/sota/monocular-3d-object-detection-on-kitti-cars
 
+This is good too
+https://github.com/abhi1kumar/SeaBird
+
 # Awesome Monocular 3D detection
 Paper list of 3D detetction, keep updating!
 
